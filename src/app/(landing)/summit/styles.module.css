@@ -1,0 +1,28 @@
+.backgroundContainer {
+  background-image: url(/images/summit25/BG_summit_Desktop_1280.png);
+  background-size: 100% auto;
+  background-position: center top;
+  background-repeat: no-repeat;
+  margin-top: -2rem;
+  padding-top: 2rem;
+  width: 100vw;
+  margin-left: calc(-50vw + 50%);
+}
+
+@media (max-width: 1280px) {
+  .backgroundContainer {
+    background-image: url(/images/summit25/BG_summit_Medium_1280.png);
+  }
+}
+
+@media (max-width: 760px) {
+  .backgroundContainer {
+    background-image: url(/images/summit25/BG_summit_Small_760.png);
+  }
+}
+
+@media (max-width: 390px) {
+  .backgroundContainer {
+    background-image: url(/images/summit25/BG_summit_Mobile_390px.png);
+  }
+} 

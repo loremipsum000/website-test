@@ -1,0 +1,1 @@
+- standardize responsive spike/lines/layout sizing across pages

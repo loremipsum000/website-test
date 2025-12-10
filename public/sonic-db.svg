@@ -1,0 +1,17 @@
+<svg width="168" height="168" viewBox="0 0 168 168" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M41.9981 119.001L41.998 49.001M125.998 49.001L125.998 119.001" stroke="#FFECD4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M125.998 119C125.998 130.598 107.194 140 83.998 140C60.8021 140 41.998 130.598 41.998 119" stroke="#FFECD4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M125.998 84C125.998 95.598 107.194 105 83.998 105C60.8021 105 41.998 95.598 41.998 84" stroke="#FFECD4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M83.998 70.001C107.194 70.001 125.998 60.599 125.998 49.001C125.998 37.403 107.194 28.001 83.998 28.001C60.8021 28.001 41.998 37.403 41.998 49.001C41.998 60.599 60.8021 70.001 83.998 70.001Z" fill="#FFECD4"/>
+<path d="M83.998 70.001C107.194 70.001 125.998 60.599 125.998 49.001C125.998 37.403 107.194 28.001 83.998 28.001C60.8021 28.001 41.998 37.403 41.998 49.001C41.998 60.599 60.8021 70.001 83.998 70.001Z" fill="url(#paint0_angular_1044_5536)"/>
+<path d="M83.998 70.001C107.194 70.001 125.998 60.599 125.998 49.001C125.998 37.403 107.194 28.001 83.998 28.001C60.8021 28.001 41.998 37.403 41.998 49.001C41.998 60.599 60.8021 70.001 83.998 70.001Z" stroke="#FFECD4" stroke-linecap="round" stroke-linejoin="round"/>
+<defs>
+<radialGradient id="paint0_angular_1044_5536" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(83.998 49.001) rotate(-26.5651) scale(46.9574 21.6868)">
+<stop stop-color="#FFCB67"/>
+<stop offset="0.348501" stop-color="#ED5409"/>
+<stop offset="0.636375" stop-color="#506179"/>
+<stop offset="0.838535" stop-color="#214E81"/>
+<stop offset="1" stop-color="#102D3C"/>
+</radialGradient>
+</defs>
+</svg>
